@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=&fontColor=ffffff" alt=""/>
 
-<h1>hey, I'm <span style="color:#38bdf8">YOUR NAME</span></h1>
+<h1>hey, I'm <span style="color:#38bdf8">Martin</span></h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=g%2B%2B+build.cpp+-o+system;python3+backend.py;java+Service.java;%2F%2F+shipping+to+the+browser" alt="typing"/>
 
@@ -10,17 +10,15 @@
 
 <br>
 
-> I write the parts most people don't see — C++ for the stuff that has to be fast, Python for the stuff that has to be flexible, Java for the stuff that has to scale, and HTML/CSS/JS for the part people actually touch.
+> I like to work with multiple coding languages in paralell or simply learn more and more useful languages.
 
 <br>
 
 ### `~` currently
 
 ```
-building     → PROJECT NAME
-learning     → TECHNOLOGY / CONCEPT
-open to      → OPPORTUNITY / COLLAB TYPE
-reach me at  → your.email@example.com
+learning     → Java
+reach me at  → florianm@edu.htl-villach.at
 ```
 
 <br>
