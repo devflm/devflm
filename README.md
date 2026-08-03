@@ -42,9 +42,7 @@ I like to work with multiple coding languages in parallel, or simply learn more 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Mail](https://img.shields.io/badge/-Email-161b22?style=flat-square&logo=gmail&logoColor=38bdf8)](mailto:florianm@edu.htl-villach.at)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-161b22?style=flat-square&logo=vercel&logoColor=38bdf8)](https://YOUR_PORTFOLIO.com)
 
 </div>
 
