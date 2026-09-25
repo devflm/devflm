@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/mountains.svg" width="100%" alt="Stylized mountain range"/>
+<img src="mountains.svg" width="100%" alt="Stylized mountain range"/>
 
 <br>
 
-<img src="./assets/smooth-transition-transparent.gif" width="150" height="150" alt="Programming languages"/>
+<img src="smooth-transition-transparent.gif" width="150" height="150" alt="Programming languages"/>
 
 <h1>Hey, I'm Martin.</h1>
 
